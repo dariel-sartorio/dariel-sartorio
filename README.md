@@ -1,74 +1,81 @@
 # Dariel Sartorio
 
-JavaScript Developer focused on mastering core language fundamentals and backend architecture with Node.js.
+Backend & Full Stack Developer focused on building business systems that solve real operational problems.
 
 ---
 
-## About Me
+## What I Do
 
-Self-taught developer building a strong foundation in JavaScript internals before moving into full-stack development.
+I build backend systems and web applications for small businesses and startups.
 
-Currently working on:
-- CLI tools with Node.js
-- Core HTTP servers without frameworks
-- Deep exploration of JS execution model
-
-Long-term goal: Full Stack Web Developer (Node.js + React).
-
----
-
-## Technical Focus
-
-- JavaScript (ES6+)
-- Node.js (Core Modules)
-- CLI Application Architecture
-- Asynchronous Programming
-- Git & Version Control
-- Linux Command Line
+Main use cases:
+- Product & inventory management systems
+- Internal tools (CRUD dashboards)
+- REST APIs for web apps
+- Business process automation
 
 ---
 
-## Current Learning Path
+## Tech Stack
 
-- JavaScript internals (scope, closures, prototypes, async model)
-- Manual HTTP server implementation
-- Clean project architecture
-- Professional Git workflow
+**Backend:**
+- Node.js
+- Express
+- PostgreSQL
+- Prisma ORM
 
----
+**Frontend:**
+- HTML
+- Tailwind CSS
+- React (in progress)
 
-## Featured Projects
-
-### Task Manager CLI
-Command-line task management tool built with Node.js and file system persistence.
-
-Key concepts:
-- Modular architecture
-- Error handling
-- Data persistence (JSON)
-- Command parsing
+**Other:**
+- REST API design
+- Authentication (JWT)
+- Git & Linux
 
 ---
 
-### Node HTTP Server (No Frameworks)
-Custom HTTP server using Node's native `http` module.
+## Current Project
 
-Key concepts:
-- Routing
-- Request/response lifecycle
-- Status codes
-- JSON parsing
-- Low-level backend fundamentals
+### Product Management System (Mini ERP)
+
+A real-world backend system designed for small businesses to manage products and operations.
+
+Core features:
+- Product CRUD (create, update, delete, list)
+- Database persistence (PostgreSQL)
+- Authentication system (JWT)
+- Scalable architecture
+
+Goal: turn this into a deployable product for real clients.
 
 ---
 
-## Philosophy
+## What Makes Me Different
 
-Strong fundamentals first.  
-Frameworks later.
+- I focus on **real business problems**, not just tutorials
+- I build **complete systems**, not isolated features
+- I prioritize **clean and scalable backend architecture**
+- I learn fast and adapt to project needs
+
+---
+
+## Services (Coming Soon)
+
+- Custom backend development
+- API development
+- Simple business management systems
+- Bug fixing and backend improvements
+
+---
+
+## Current Goal
+
+Start working with real clients and build production-level projects.
 
 ---
 
 ## Contact
 
-Open to junior backend opportunities and collaborative learning projects.
+Open to freelance work and collaboration.
