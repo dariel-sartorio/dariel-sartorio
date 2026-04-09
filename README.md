@@ -9,6 +9,7 @@ Backend & Full Stack Developer focused on building business systems that solve r
 I build backend systems and web applications for small businesses and startups.
 
 Main use cases:
+
 - Product & inventory management systems
 - Internal tools (CRUD dashboards)
 - REST APIs for web apps
@@ -19,17 +20,19 @@ Main use cases:
 ## Tech Stack
 
 **Backend:**
+
 - Node.js
 - Express
 - PostgreSQL
 - Prisma ORM
 
 **Frontend:**
-- HTML
+
+- HTML5
 - Tailwind CSS
-- React (in progress)
 
 **Other:**
+
 - REST API design
 - Authentication (JWT)
 - Git & Linux
@@ -43,6 +46,7 @@ Main use cases:
 A real-world backend system designed for small businesses to manage products and operations.
 
 Core features:
+
 - Product CRUD (create, update, delete, list)
 - Database persistence (PostgreSQL)
 - Authentication system (JWT)
@@ -61,21 +65,12 @@ Goal: turn this into a deployable product for real clients.
 
 ---
 
-## Services (Coming Soon)
+## 📊 Roadmap Learning Progress
 
-- Custom backend development
-- API development
-- Simple business management systems
-- Bug fixing and backend improvements
+[![Web Dev Roadmap](https://img.shields.io/badge/Roadmap.sh-Web%20Developer%20Stack-blue?style=for-the-badge&logo=github)](https://roadmap.sh/u/darielsartorio)
 
----
+## 📫 Contact
 
-## Current Goal
+[![Email](https://img.shields.io/badge/Email-darielsartorio222%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:darielsartorio222@gmail.com)
 
-Start working with real clients and build production-level projects.
-
----
-
-## Contact
-
-Open to freelance work and collaboration.
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5351590019)
