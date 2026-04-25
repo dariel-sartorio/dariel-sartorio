@@ -1,23 +1,27 @@
-# Dariel Sartorio
+# 🚀 Dariel Sartorio
 
-Backend & Full Stack Developer focused on building business systems that solve real operational problems.
+#### Backend & Full Stack Developer
+
+focused on building business systems that solve real operational challenges.
 
 ---
 
-## What I Do
+## 💡 About Me
 
-I build backend systems and web applications for small businesses and startups.
+I design and develop robust backend systems and full web applications tailored for small businesses and startups.
 
-Main use cases:
+---
+
+## 🛠️ Core Expertise
 
 - Product & inventory management systems
-- Internal tools (CRUD dashboards)
-- REST APIs for web apps
+- Internal tools
+- REST API design & implementation
 - Business process automation
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 **Backend:**
 
@@ -39,29 +43,27 @@ Main use cases:
 
 ---
 
-## Current Project
+## 📂 Current Project
 
-### Product Management System (Mini ERP)
+### Mini ERP + E-Commerce System
 
-A real-world backend system designed for small businesses to manage products and operations.
+A real-world backend platform for small businesses.
 
 Core features:
 
-- Product CRUD (create, update, delete, list)
-- Database persistence (PostgreSQL)
-- Authentication system (JWT)
-- Scalable architecture
-
-Goal: turn this into a deployable product for real clients.
+- Product & category CRUD
+- PostgreSQL persistence with Prisma ORM
+- Secure authentication with JWT
+- Modular, scalable architecture
 
 ---
 
-## What Makes Me Different
+## 🌟 What Sets Me Apart
 
-- I focus on **real business problems**, not just tutorials
-- I build **complete systems**, not isolated features
-- I prioritize **clean and scalable backend architecture**
-- I learn fast and adapt to project needs
+- I focus on real business problems, not just tutorials.
+- I deliver complete systems, not isolated features.
+- I prioritize clean, scalable backend architecture.
+- I adapt quickly and learn fast to meet project needs.
 
 ---
 
